@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1012763941442699327/1012791409415290920/Flaxe_Banner.png"/>
+<img src="https://cdn.discordapp.com/attachments/1012763941442699327/1012791409415290920/Flaxe_Banner.png" width="500"/>
 # Flaxe
 Work in Progress Chat App
 #### Made by Team Depixa
